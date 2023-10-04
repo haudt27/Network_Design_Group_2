@@ -1,1 +1,2 @@
 Bài tập lớn môn Thiết kế mạng UIT - Đề tài phân tích thiết kế hệ thống mạng cho trường Đại học NT-UIT
+Link tới bài báo cáo: https://uithcm-my.sharepoint.com/:w:/g/personal/21520833_ms_uit_edu_vn/ESLD9DFxGxBKgCnCdB6BwCcBoOTsqIlpaCB4TjR4PMiZaA
